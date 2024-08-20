@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636757728398",
+    "project_id": "eventx-843f6",
+    "storage_bucket": "eventx-843f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636757728398:android:7535e08be6c2030a703ddf",
+        "android_client_info": {
+          "package_name": "com.example.eventx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2BM7D-Wa3FyKPw2GLgtrTiZBfM_GQqyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
